@@ -5,6 +5,10 @@ This app allows users to generate strong and secure passwords with adjustable le
 
 ---
 
+visit [website link](passwordgenerator1react.netlify.app)
+
+---
+
 ## 🚀 Features
 - Generate random and secure passwords instantly  
 - Customize password length  
@@ -17,6 +21,7 @@ This app allows users to generate strong and secure passwords with adjustable le
 - Responsive UI built with Tailwind CSS  
 
 ---
+
 
 
 ## 🛠️ Tech Stack
