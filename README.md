@@ -18,10 +18,6 @@ This app allows users to generate strong and secure passwords with adjustable le
 
 ---
 
-## 🖼️ Preview
-![App Screenshot](./screenshot.png) <!-- Replace with actual screenshot path -->
-
----
 
 ## 🛠️ Tech Stack
 - **React** – UI library  
